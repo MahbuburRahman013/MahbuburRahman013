@@ -47,7 +47,8 @@ Welcome to Gulhub Home, your go-to house rental website! Explore seamless living
 
 Join us in redefining the way we find and manage homes!
 
-## Useful Links: [Website]([https://your-gulhub-home-website.com](https://assignment-twelve-73e3a.web.app/))
+## Useful Links: 
+[Visit This website](https://assignment-twelve-73e3a.web.app/)
 
 
 # 2.Study Hub - Education Platform
