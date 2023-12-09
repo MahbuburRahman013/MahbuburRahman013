@@ -13,7 +13,7 @@ Greetings! I'm Mahbubur Rahman, a student navigating the coding universe from Ja
 - 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **react, javaScript**
-- For inquiries, feel free to reach out to me at [mahbub01304@gmail.com](mailto:your.email@example.com).
+- For inquiries, feel free to reach out to me at [mahbub01304@gmail.com](mahbub01304@gmail.com).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
