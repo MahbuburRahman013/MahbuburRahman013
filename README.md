@@ -21,3 +21,26 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbuburrahman013&show_icons=true&locale=en" alt="mahbuburrahman013" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbuburrahman013&" alt="mahbuburrahman013" /></p>
+
+# 1.Gulhub Home - House Rental Platform
+
+Welcome to Gulhub Home, your go-to house rental website! Explore seamless living with a user-friendly platform.
+
+## User Types:
+1. **Common Login User:** Request to rent apartments.
+2. **Member:** Manage rented house details, pay monthly rent, and use coupons.
+3. **Admin:** Full control over the platform, managing users, and overseeing activities.
+
+## Technologies Used:
+- React
+- Tailwind CSS
+- Firebase
+- MongoDB
+- and more
+
+Join us in redefining the way we find and manage homes!
+
+## Useful Links:
+- [Website](https://your-gulhub-home-website.com)
+- [Documentation](https://your-github-repo/docs)
+- [Contribute](https://your-github-repo/contribute)
