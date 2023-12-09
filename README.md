@@ -44,3 +44,22 @@ Join us in redefining the way we find and manage homes!
 - [Website](https://your-gulhub-home-website.com)
 - [Documentation](https://your-github-repo/docs)
 - [Contribute](https://your-github-repo/contribute)
+
+  # 2.Study Hub - Education Platform
+
+🎓 Your go-to education website for seamless learning.
+
+## User Roles:
+1. **Normal User:** View all assignments.
+2. **Login User:** Create, delete, and update assignments. Submit work with feedback.
+
+## Tech Stack:
+- React
+- Tailwind CSS
+- Filebase
+- MongoDB
+- ...
+
+Join us in fostering a collaborative learning environment! 🚀
+
+[Visit Study Hub](https://your-study-hub-website.com)
