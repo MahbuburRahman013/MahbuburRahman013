@@ -68,7 +68,7 @@ Join us in redefining the way we find and manage homes!
 
 Join us in fostering a collaborative learning environment! 🚀
 
-[Visit Study Hub]([https://your-study-hub-website.com](https://assignment-eleven-66826.web.app/))
+[Visit Study Hub](https://assignment-eleven-66826.web.app/)
 
 # 3.ROADWIZ
 
