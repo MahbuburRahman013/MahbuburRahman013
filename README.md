@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mahbubur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+## About me:
+Hey there! 👋 I'm Mahbubur Rahman, an enthusiastic learner and aspiring web developer hailing from Jashore, Bangladesh. Currently navigating the exciting world of coding, I find joy in translating ideas into reality through code. Join me on my journey as I transform concepts into interactive and engaging web applications. 🚀💻
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbuburrahman013&label=Profile%20views&color=0e75b6&style=flat" alt="mahbuburrahman013" /> </p>
 
 - 🌱 I’m currently learning **NextJS**
