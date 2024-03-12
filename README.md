@@ -1,4 +1,4 @@
-<img width="1200" align="center" alt="img" src="https://i.ibb.co/TtFH8gn/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif">
+<img width="1200" align="center" alt="img" src="https://i.ibb.co/Vpn7ZRP/1702907053089.jpg">
 <h1 align="center">Hi 👋, I'm Mahbubur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
