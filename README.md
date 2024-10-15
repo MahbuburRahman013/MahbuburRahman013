@@ -1,4 +1,4 @@
-<img width="1200" align="center" alt="img" src="https://i.ibb.co/Vpn7ZRP/1702907053089.jpg">
+<img width="1200" align="center" alt="img" src="https://i.ibb.co.com/zhCVWp6/Blue-Modern-Elegant-Corporate-Personal-Profile-Linked-In-Banner.png">
 <h1 align="center">Hi 👋, I'm Mahbubur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
