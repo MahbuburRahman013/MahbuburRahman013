@@ -41,10 +41,10 @@ Developed a professional portfolio website for physiotherapist Shafiqul Islam, h
 - and more
 
 ## Useful Links: 
-[Visit This website](https://www.sprcbd.com/)
+[Visit This website](https://www.sprcbd.com/)                                                       [Visit This website](https://www.sprcbd.com/)                       
 
 
-# 1.Blog Hub
+# 2.Blog Hub
 
 This project is a work-in-progress blog platform featuring a sleek and modern UI. It includes user authentication with login and registration functionality.
 Currently, it is in development mode, and new features are being added.
@@ -61,7 +61,7 @@ Currently, it is in development mode, and new features are being added.
 [Visit This website](https://somikoron.vercel.app/)
 
 
-# 2.TRC Sapphire Publisher
+# 3.TRC Sapphire Publisher
 
 TRC Sapphire Publisher is an academic publishing platform for authors to publish scholarly
 books.
@@ -77,7 +77,7 @@ books.
 [Visit This website](https://www.sprcbd.com/)
 
 
-# 2.Gulhub Home - House Rental Platform
+# 4.Gulhub Home - House Rental Platform
 
 ## User Types:
 1. **Common Login User:** Request to rent apartments.
