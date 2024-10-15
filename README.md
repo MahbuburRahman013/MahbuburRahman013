@@ -1,12 +1,12 @@
 <img width="1200" align="center" alt="img" src="https://i.ibb.co.com/zhCVWp6/Blue-Modern-Elegant-Corporate-Personal-Profile-Linked-In-Banner.png">
 <h1 align="center">Hi 👋, I'm Mahbubur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate JR MERN Stack developer from Bangladesh</h3>
 
 ## About me:
 Hey there! 👋 I'm Mahbubur Rahman, an enthusiastic learner and aspiring web developer hailing from Jashore, Bangladesh. Currently navigating the exciting world of coding, I find joy in translating ideas into reality through code. Join me on my journey as I transform concepts into interactive and engaging web applications. 🚀💻
 
 ## About my work:
-Greetings! I'm Mahbubur Rahman, a student navigating the coding universe from Jashore, Bangladesh. I've got a grip on JavaScript, React.js, Node.js (with Express), and MongoDB. My projects are the stories of my coding adventures—come take a peek into my world of digital exploration! 🚀👨‍💻
+Greetings! I'm Mahbubur Rahman, a student navigating the coding universe from Jashore, Bangladesh. I've got a grip on JavaScript, React.js, Next Js, Node.js (with Express), and MongoDB, Mongoose. My projects are the stories of my coding adventures—come take a peek into my world of digital exploration! 🚀👨‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbuburrahman013&label=Profile%20views&color=0e75b6&style=flat" alt="mahbuburrahman013" /> </p>
 
@@ -31,8 +31,43 @@ Greetings! I'm Mahbubur Rahman, a student navigating the coding universe from Ja
 
 # 1.SPRC BD 
 
+Developed a professional portfolio website for physiotherapist Shafiqul Islam, highlighting his qualifications and services with a clean, user-friendly design.
+
 ## Technologies Used:
 - Next JS
+- Bootstrap CSS
+- Node JS (express)
+- MongoDB
+- and more
+
+## Useful Links: 
+[Visit This website](https://www.sprcbd.com/)
+
+
+# 1.Blog Hub
+
+This project is a work-in-progress blog platform featuring a sleek and modern UI. It includes user authentication with login and registration functionality.
+Currently, it is in development mode, and new features are being added.
+
+## Technologies Used:
+- Next JS
+- Tailwind CSS
+- Node JS (express)
+- MongoDB
+- Next Auth
+- and more
+
+## Useful Links: 
+[Visit This website](https://somikoron.vercel.app/)
+
+
+# 2.TRC Sapphire Publisher
+
+TRC Sapphire Publisher is an academic publishing platform for authors to publish scholarly
+books.
+
+## Technologies Used:
+- React JS
 - Tailwind CSS
 - Firebase
 - MongoDB
@@ -43,8 +78,6 @@ Greetings! I'm Mahbubur Rahman, a student navigating the coding universe from Ja
 
 
 # 2.Gulhub Home - House Rental Platform
-
-Welcome to Gulhub Home, your go-to house rental website! Explore seamless living with a user-friendly platform.
 
 ## User Types:
 1. **Common Login User:** Request to rent apartments.
@@ -62,47 +95,4 @@ Join us in redefining the way we find and manage homes!
 
 ## Useful Links: 
 [Visit This website](https://assignment-twelve-73e3a.web.app/)
-
-
-# 3.Study Hub - Education Platform
-
-🎓 Your go-to education website for seamless learning.
-
-## User Roles:
-1. **Normal User:** View all assignments.
-2. **Login User:** Create, delete, and update assignments. Submit work with feedback.
-
-## Tech Stack:
-- React
-- Tailwind CSS
-- Filebase
-- MongoDB
-- ...
-
-Join us in fostering a collaborative learning environment! 🚀
-
-[Visit Study Hub](https://assignment-eleven-66826.web.app/)
-
-# 4.ROADWIZ
-
-🚗 Welcome to ROADWIZ - Your Ultimate Shopping Companion!
-
-🛒 **About This Website:**
-- **Cart Management:** Add, delete products with ease.
-- **Secure Registration:** Password complexity checks for enhanced security.
-- **Login Error Handling:** Clear error messages for incorrect credentials.
-- **Logout Button:** Simple one-click logout functionality.
-
-## Technologies Used:
-- React
-- Tailwind CSS
-- Firebase
-- MongoDB
-- ...
-
-🛣️ Embark on a seamless shopping journey with ROADWIZ!
-
----
-
-[Explore ROADWIZ](https://assignment-ten-5f328.web.app/)
 
