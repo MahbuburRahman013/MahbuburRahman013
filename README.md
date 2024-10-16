@@ -110,6 +110,9 @@ books.
 1. **Common Login User:** Request to rent apartments.
 2. **Member:** Manage rented house details, pay monthly rent, and use coupons.
 3. **Admin:** Full control over the platform, managing users, and overseeing activities.
+4. To explore all the features of the dashboard, you can log in with the following credentials:
+- Email: admin@gmail.com
+- Password: 123456
 
 ## Technologies Used:
 - React
